@@ -1,1 +1,20 @@
-
+{
+    "name": "BQ25887",
+    "keywords": "i2c,wire,battery management system,battery charging",
+    "description": "Arduino library for BQ25887 Single Cell battery Charger",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/babuusa100/BQ25887.git"
+    },
+    "authors":
+    {
+        "name": "Babu Vishwanath",
+        "url": "https://github.com/babuusa100",
+        "maintainer": true
+    },
+    "version": "0.1.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
