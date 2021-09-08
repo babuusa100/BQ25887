@@ -1,0 +1,65 @@
+###########################################
+# Syntax Coloring Map For BQ25896-library
+###########################################
+
+###########################################
+# Datatypes			(KEYWORD1)
+###########################################
+
+BQ25887				KEYWORD1
+
+###########################################
+# Methods and Functions		(KEYWORD2)
+###########################################
+		
+properties				KEYWORD2
+getVBUS				    KEYWORD2
+getVCELL           KEYWORD2
+getVBAT				    KEYWORD2
+getICHG				    KEYWORD2
+getTSPCT				      KEYWORD2
+getTemperature				KEYWORD2
+getCHG_STATUS				KEYWORD2
+getVBUS_STATUS				KEYWORD2
+getVSYS_STATUS				KEYWORD2
+getTemp_Rank				KEYWORD2
+getCHG_Fault_STATUS				KEYWORD2
+getFast_Charge_Current_Limit				KEYWORD2
+getInput_Current_Limit				KEYWORD2
+getPreCharge_Current_Limit				KEYWORD2
+getTermination_Current_Limit			KEYWORD2
+getCharge_Voltage_Limit				KEYWORD2
+
+###########################################
+# Constants			(LITERAL1)
+###########################################
+
+TS_RANK				LITERAL1
+HIZ_MODE			LITERAL1
+ILIM_FNC			LITERAL1
+VINDPM_RESET			LITERAL1
+BAT_DISCHG			LITERAL1
+PFM_ODA_MODE			LITERAL1
+FORCE_ICO_START			LITERAL1
+FORCE_INDET_PSEL		LITERAL1
+ICO_CTRL			LITERAL1
+TERMINATION_CTRL		LITERAL1	
+STAT_PIN_FNC			LITERAL1
+WATCHDG_TIMER		LITERAL1
+CHG_SAFETY_TIMER		LITERAL1
+FAST_CHG_TIMER		LITERAL1
+SAFETY_TIMER_DPM_TREG		LITERAL1
+THERMAL_REG_TRSHOLD		LITERAL1
+CHG_ENABLE_CONFIG		LITERAL1
+PRE_FAST_CHG_TRSHOLD		LITERAL1
+PFM_MODE_CTRL			LITERAL1
+I2C_WD_RST			LITERAL1
+TOP_OFF_TIMER			LITERAL1
+JEITA_VSET_HIGH_TEMP		LITERAL1
+JEITA_ISET_HIGH_TEMP		LITERAL1
+JEITA_ISET_LOW_TEMP		LITERAL1
+CHG_FAULT				LITERAL1
+VBUS_STAT				LITERAL1
+ICO_STAT
+CHG_STAT				LITERAL1
+
